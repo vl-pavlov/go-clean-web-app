@@ -20,4 +20,17 @@ go build
 ./go-clean-web-app
 ```
 
+## Project Structure
+
+### `/cmd`
+Main applications for this project.
+
+### `/pkg`
+Library code that's ok to use by external applications.
+
+### `/internal`
+Private application and library code.
+
+### `/api`
+API protocol definition files.
 

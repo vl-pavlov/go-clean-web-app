@@ -2,6 +2,8 @@
 
 You can use this template for building your web app to ensure that our application is easy to maintain, scalable, and robust. 
 
+We also recommend exploring the [basic layout](https://github.com/golang-standards/project-layout) for Go application projects  
+
 ## Getting Started
 
 To get started, follow these steps:
